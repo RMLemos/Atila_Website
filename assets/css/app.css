@@ -1,0 +1,17 @@
+
+.profile{
+    background-color: rgb(213, 214, 209);
+    color:rgb(1, 56, 50);
+    padding-top: 120px;
+}
+
+.accessory{
+    background-color: white;
+    color:rgb(1, 56, 50);
+    padding-top: 80px;
+}
+
+footer{
+    flex-shrink: 0;
+    background-color: rgb(1,56,50);
+}
