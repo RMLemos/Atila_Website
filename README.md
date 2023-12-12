@@ -7,7 +7,7 @@ Furthermore, it was developed through a YouTube tutorial with the goal of deepen
 
 ### Link
 
-+ [Maiana Website](https://maiana.netlify.app/)
++ [Atila Website](https://thecatatila.netlify.app/)
 
 ![Atila Banner Image](assets/img/website.png)
 
@@ -30,7 +30,7 @@ Atila_Website/
 └── index.html
 
  ```
- [![Netlify Status](https://api.netlify.com/api/v1/badges/adaef753-fa16-4b41-b1e9-10eb0452f15d/deploy-status)](https://app.netlify.com/sites/maiana/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ec0a3abb-895d-4904-88ac-bc3968dfcba1/deploy-status)](https://app.netlify.com/sites/thecatatila/deploys)
 
 ### Tools
 
